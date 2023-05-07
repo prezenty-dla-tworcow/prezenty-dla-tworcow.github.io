@@ -1,0 +1,4 @@
+<form action="?" onsubmit="window.location.href = this.haslo_strony.value + '.html'; return false">
+    <input type="password" name="haslo_strony" />
+    <input type="submit" value="Wejdź na stronę" />
+</form>
